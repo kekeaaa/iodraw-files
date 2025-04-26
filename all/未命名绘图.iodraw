@@ -53,9 +53,12 @@
           <mxGeometry x="1183" y="46" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ijuXXiO-dzTVZ5vFLaGp-87" value="销售订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ijuXXiO-dzTVZ5vFLaGp-79">
-          <mxGeometry x="1389" y="46" width="156" height="49" as="geometry" />
+          <mxGeometry x="1389" y="47" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ijuXXiO-dzTVZ5vFLaGp-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ijuXXiO-dzTVZ5vFLaGp-88" target="ijuXXiO-dzTVZ5vFLaGp-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijuXXiO-dzTVZ5vFLaGp-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ijuXXiO-dzTVZ5vFLaGp-88" target="ijuXXiO-dzTVZ5vFLaGp-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ijuXXiO-dzTVZ5vFLaGp-88" value="超市进销存系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
