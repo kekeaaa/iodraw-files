@@ -7,6 +7,9 @@
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-1" value="员工模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2927" y="119" width="1572" height="197" as="geometry" />
         </mxCell>
+        <mxCell id="O3_9Ualm3u_r-_-pUS9r-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O3_9Ualm3u_r-_-pUS9r-2" target="O3_9Ualm3u_r-_-pUS9r-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-2" value="进销存管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2498" y="20" width="172" height="49" as="geometry" />
         </mxCell>
@@ -100,11 +103,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3_9Ualm3u_r-_-pUS9r-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4100" y="660" as="sourcePoint" />
-            <mxPoint x="4150" y="610" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="O3_9Ualm3u_r-_-pUS9r-87" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2544" y="143.5" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
