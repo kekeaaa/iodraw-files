@@ -83,7 +83,7 @@
           <mxGeometry x="2368" y="242" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-26" value="部门管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2574" y="242" width="124" height="49" as="geometry" />
+          <mxGeometry x="2574" y="291" width="124" height="69" as="geometry" />
         </mxCell>
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-27" value="岗位管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2748" y="242" width="124" height="49" as="geometry" />
