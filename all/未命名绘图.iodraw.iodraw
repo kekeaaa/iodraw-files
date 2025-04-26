@@ -46,11 +46,11 @@
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-13" value="首页" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1197" y="642.5699999999999" width="49" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="O3_9Ualm3u_r-_-pUS9r-14" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1317.5" y="664.0699999999999" width="124" height="49" as="geometry" />
+        <mxCell id="O3_9Ualm3u_r-_-pUS9r-14" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1355" y="626.5699999999999" width="49" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="O3_9Ualm3u_r-_-pUS9r-15" value="员工管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1491.5" y="664.0699999999999" width="124" height="49" as="geometry" />
+        <mxCell id="O3_9Ualm3u_r-_-pUS9r-15" value="员工管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1529" y="626.5699999999999" width="49" height="124" as="geometry" />
         </mxCell>
         <mxCell id="O3_9Ualm3u_r-_-pUS9r-16" value="客户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1665.5" y="664.0699999999999" width="124" height="49" as="geometry" />
