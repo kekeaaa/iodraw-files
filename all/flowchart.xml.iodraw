@@ -4,6 +4,117 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-0" value="进销存管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="829" y="20" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-1" value="资料管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-2" value="采购管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="663" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-3" value="销售管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="853" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-4" value="库存管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1035" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-5" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1209" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-6" value="商品资料维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="217" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-7" value="供货商资料维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="226" y="217" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-8" value="客户资料维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="217" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-9" value="进货单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="217" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-10" value="销售单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="845" y="217" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-11" value="库存查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1035" y="217" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-12" value="权限管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1209" y="217" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-0" target="jZZTd2yYJlf7TqaXrs8G-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-0" target="jZZTd2yYJlf7TqaXrs8G-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-0" target="jZZTd2yYJlf7TqaXrs8G-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-0" target="jZZTd2yYJlf7TqaXrs8G-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1097" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-0" target="jZZTd2yYJlf7TqaXrs8G-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1271" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-1" target="jZZTd2yYJlf7TqaXrs8G-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-1" target="jZZTd2yYJlf7TqaXrs8G-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-1" target="jZZTd2yYJlf7TqaXrs8G-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-2" target="jZZTd2yYJlf7TqaXrs8G-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-3" target="jZZTd2yYJlf7TqaXrs8G-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-4" target="jZZTd2yYJlf7TqaXrs8G-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZTd2yYJlf7TqaXrs8G-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZTd2yYJlf7TqaXrs8G-5" target="jZZTd2yYJlf7TqaXrs8G-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
